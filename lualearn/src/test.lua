@@ -1,1 +1,0 @@
-print("hello world")--  test.lua ÎÄ¼şÄ©Î²×¢ÊÍ--test--test
